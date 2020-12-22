@@ -1,1 +1,3 @@
-# Wana-Hear-A-Joke-
+# Wana Hear A Joke?
+
+Just a Funny VBScript.
